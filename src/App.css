@@ -1,0 +1,39 @@
+body {
+  position: reletive;
+  font-family: sans-serif;
+}
+
+#Password {
+  width: 400px;
+}
+#width{
+  width:400px
+}
+#Username {
+  width: 400px;
+}
+
+#btn1:hover {
+  background-color: rgb(201, 188, 188);
+  color: black;
+  transition: 0.5s;
+}
+
+#btn2:hover {
+  background-color:lightgrey;
+  color: black;
+  transition: 0.5s ease;
+}
+
+#btn3:hover {
+  background-color: c;
+  color: black;
+  transition: 0.5s ease;
+}
+
+#Hover:hover{
+  background-color: rgba(158, 160, 160, 0.144);
+  color: black;
+  transition: 0.5s ease;
+  border-radius: 10px;
+}
